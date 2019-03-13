@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/spongebob.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/patrick-star.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/mrspuff.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/barnacle-boy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/pearlk.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/mr-krabs.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/mermaid-man.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/garythesnail.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/FlyingDutchman.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/plankton.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/sandy-cheeks.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/squidward.jpg",
+    "clicked": false
+  }
+]
